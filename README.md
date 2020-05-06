@@ -9,7 +9,7 @@ Kinect Azureでビリヤードのミニテーブルを撮影し、台と台上�
 
 ![Kinect and Billiard table](kinect_and_billiard_table.jpg "Kinect and Billiard table")
 
-過去に[別のレポジトリ](https://github.com/yudai09/study_opencv_billiards)で同じミニテーブルを2D（RGB）としてOpenCVで処理して同様の処理を行いました。
+過去に[別のレポジトリ](https://github.com/yudai09/study_opencv_billiards)で同じミニテーブルを2D（RGB）としてOpenCVで同様の処理を行いました。
 
 # Requirements
 Open3D == 0.9
