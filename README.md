@@ -35,5 +35,5 @@ $ pip install open3d
 [![](http://img.youtube.com/vi/ke5-wfmHF0s/0.jpg)](http://www.youtube.com/watch?v=ke5-wfmHF0s "4_dbscan_object_on_table.py")
 
 # TODO
-- [] ボールの番号の認識（多分CNNを使うことになる）
-- [] ボールの中心座標の取得。Depthカメラの性質上、真球にはならないが計算でカバーできそう
+* ボールの番号の認識（多分CNNを使うことになる）
+* ボールの中心座標の取得。Depthカメラの性質上、真球にはならないが計算でカバーできそう
