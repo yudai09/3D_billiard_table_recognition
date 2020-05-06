@@ -7,6 +7,7 @@ Kinect Azureでビリヤードのミニテーブルを撮影し、台と台上�
 
 [Open3D](http://www.open3d.org/docs/release/)の公式のドキュメントやexamplesを参考に開発しています。
 
+![Kinect and Billiard table](kinect_and_billiard_table.jpg "Kinect and Billiard table")
 
 # Requirements
 Open3D == 0.9
